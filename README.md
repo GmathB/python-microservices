@@ -91,5 +91,3 @@ Your task is to build a simple microservice using the Python Flask framework.  T
     $ pytest
     ```
     
-    
-
